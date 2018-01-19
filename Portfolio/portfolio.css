@@ -1,5 +1,5 @@
 p, h1, h2, li {
-  color: #ADD8E6;
+  color: #E93B58;
   font-family: Verdana;
   text-shadow: 1px 1px black;
 }
@@ -28,7 +28,7 @@ nav li {
 nav li a {
     font-size: 16px;
     display: block;
-    color: #ADD8E6;
+    color: #E93B58;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
